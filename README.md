@@ -14,3 +14,9 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+This project contains the following tools/features ->
+*OpenWeatherMap API for every 3 hour weather forecast for next 5 days.
+*JSON Parsing.
+*Text Field, List View, Gradient color etc.
+
